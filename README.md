@@ -6,7 +6,7 @@ I WANT a codebase that follows accessibility standards  <br>
 SO THAT our own site is optimized for search engines
 </p>
 <p>
-Acceptance Criteria
+Acceptance Criteria  <br>
 GIVEN a webpage meets accessibility standards
 
 - WHEN I view the source code
