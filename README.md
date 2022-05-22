@@ -1,8 +1,8 @@
 # UW_Accessibility
 <p>
-User Story<br>
+User Story  <br>
 AS A marketing agency
-I WANT a codebase that follows accessibility standards<br>
+I WANT a codebase that follows accessibility standards  <br>
 SO THAT our own site is optimized for search engines
 </p>
 <p>
