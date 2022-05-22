@@ -1,12 +1,14 @@
 # UW_Accessibility
 <p>
+The goal of this project is to refactor an existing site to improve accessibility.
+<p>
 <strong>User Story</strong>  <br>
 AS A marketing agency
 I WANT a codebase that follows accessibility standards  <br>
 SO THAT our own site is optimized for search engines
 </p>
 <p>
-Acceptance Criteria  <br>
+<strong>Acceptance Criteria</strong>  <br>
 GIVEN a webpage meets accessibility standards
 
 - WHEN I view the source code
