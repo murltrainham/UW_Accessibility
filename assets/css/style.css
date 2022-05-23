@@ -22,7 +22,8 @@ body {
 }
 
 .header h1 .seo {
-  color: #d9dcd6;
+  /* changing color from #d9dcd6 to improve visibility (provide better contrast). */
+  color: #3b3838;
 }
 
 .header div {
