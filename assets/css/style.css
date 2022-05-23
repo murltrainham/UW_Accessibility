@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 .seo {
-  /* changing color from #d9dcd6 to improve visibility (provide better contrast). */
+  /* changing color from #d9dcd6 to improve visibility (provide better contrast). Moved from line ~50 to correct placement and improve ease of readability */
   color: #3b3838;
 }
 
@@ -60,8 +60,6 @@ a {
 p {
   font-size: 16px;
 }
-
-
 
 .float-left {
   float: left;
